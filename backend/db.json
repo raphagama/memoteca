@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio",
+      "autoria": "Gama",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Triste a sua ida",
+      "autoria": "Raphael",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 1,
+      "conteudo": "Até a próxima, amigo",
+      "autoria": "Arthur",
+      "modelo": "modelo3"
+    }
+  ]
+}
